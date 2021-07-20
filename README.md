@@ -6,4 +6,4 @@ I think it would be nice and convenient to have a tool that can take some statis
 
 At the moment my expertise in this area is limited to models implemented in the [jats-semi-supervised-pytorch](https://github.com/kiwi0fruit/jats-semi-supervised-pytorch) project. I haven't even done a research on "talking regressor" topic yet. I guess some progress in this direction is being made right now by machine learning community as it's a cool and useful direction.
 
-This repo promots of an idea to create such a "talking regressor" but at the same it's a declaration of my intentions to have this as a hobby at least. Hence I'm interested in having competence in both language models and regressions with disentangled representations.
+This repo promotes of an idea to create such a "talking regressor" but at the same it's a declaration of my intentions to have this as a hobby at least. Hence I'm interested in having competence in both language models and regressions with disentangled representations.
