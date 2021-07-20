@@ -11,3 +11,4 @@ May be useful:
 * [Study Shows Transformers Possess the Compositionality Power for Mathematical Reasoning](https://syncedreview.com/2021/05/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-27/)
 * [Compositional Processing Emerges in Neural Networks Solving Math Problems](https://arxiv.org/abs/2105.08961)
 * This may be useful as we are able to generate automatic math formulas from learned model. After all we know the math definition of the model from Auto-ML.
+* But we still don't have a way to get math answers to math-formalated questions to the model (assuming we translated natural language question to math question via transformer)...
