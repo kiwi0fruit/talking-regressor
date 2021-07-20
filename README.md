@@ -6,4 +6,4 @@ I think it would be nice to have a tool that can take some statistical data from
 
 At the moment my expertise in this area is limited to models implemented in the [jats-semi-supervised-pytorch](https://github.com/kiwi0fruit/jats-semi-supervised-pytorch) project. That's not enough for sure. So I would return to this problem sometimes and would write what I found relevant.
 
-Language models like GPT2 *might* be useful but I wasn't able to find it joined with some separate structure representation... I guess there is a long-long way to go (or things for me to google :).
+Language models like GPT2 *might* be useful but I wasn't able to find it joined with some separate structure representation (and after briefly looking at the transformer model I don't know if it's even possible)... I guess there is a long-long way to go (or things for me to google :).
